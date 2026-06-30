@@ -1,4 +1,4 @@
-````md
+
 # Spring AI: Prompt, Message Types, and ChatClient Summary
 
 ## 1. What is a Prompt?
@@ -407,4 +407,4 @@ UserMessage(String)
 **Golden Rule:**
 
 > **Prompt is the conversation. Messages define the roles within that conversation.** A plain `String` becomes a `UserMessage` by default because Spring AI cannot infer any other role.
-````
+
